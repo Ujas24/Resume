@@ -1,4 +1,3 @@
 # Resume
-My Latest Resume
-It is attached
+My Latest Resume is attached
 
